@@ -26,8 +26,17 @@
 > git push origin ブランチ名
 
 
-![Good](20151217-134726.jpg)
+### ついでにMarkDown練習
 
+マークダウン↓　\!\[Good\]\(20151217-134726.jpg\)
+> 
+> ![Good](20151217-134726.jpg)
+> 
+
+&lt;a href～　↓
 <a href="https://www.youtube.com/watch?v=u3BaUk3x_DU"><img src="20151217-134726.jpg" alt="Good"></a>
 
-<img src="20151217-134726.jpg" alt="Good">
+マークダウン（&gt;）とhtmlタグ
+> 
+> <img src="20151217-134726.jpg" alt="Good">
+> 
