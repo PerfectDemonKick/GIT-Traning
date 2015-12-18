@@ -33,7 +33,7 @@
 > ![Good](20151217-134726.jpg)
 > 
 
-&lt;a href～　↓
+&lt;a href～　↓ <br>
 <a href="https://www.youtube.com/watch?v=u3BaUk3x_DU"><img src="20151217-134726.jpg" alt="Good"></a>
 
 マークダウン（&gt;）とhtmlタグ
