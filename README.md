@@ -24,3 +24,10 @@
 
 ##### * 
 > git push origin ƒuƒ‰ƒ“ƒ`–¼
+
+
+![Good](20151217-134726.jpg)
+
+<a href="https://www.youtube.com/watch?v=u3BaUk3x_DU"><img src="20151217-134726.jpg" alt="Good"></a>
+
+<img src="20151217-134726.jpg" alt="Good">
